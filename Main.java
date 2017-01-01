@@ -4,8 +4,6 @@ import java.util.Arrays;
 import static java.lang.Math.*;
 /**
  * @author CarlosSanchez P_ID:5446178
- * I certify that the following is my work and I did not consult with
- * anyone.
  */
 
 public class Main {
