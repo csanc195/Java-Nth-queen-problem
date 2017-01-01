@@ -1,7 +1,5 @@
 /**
  * @author CarlosSanchez P_ID:5446178
- * I certify that the following is my work and I did not consult with
- * anyone.
  */
 
 import static java.lang.Math.abs;
